@@ -22,4 +22,4 @@ To install the theme in VS Code, use a ```*.vsix``` file from the [```/VSIX```](
 
 or
 
-Install from [Visual Studio Code Marketplace](#)
+Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=vettspace.retrolighttheme)
