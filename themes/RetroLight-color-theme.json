@@ -1901,11 +1901,11 @@
         "statusBar.noFolderForeground": "#F5F5F5",
 
         // Tab Bar
-        "editorGroupHeader.tabsBackground": "#242424",
+        "editorGroupHeader.tabsBackground": "#A2B5BB",
         "editorGroupHeader.border": "#363536",
-        "tab.activeBackground": "#3b37328c",
-        "tab.inactiveBackground": "#242424",
-        "tab.inactiveForeground": "#696868",
+        "tab.activeBackground": "#647D87",
+        "tab.inactiveBackground": "#A2B5BB",
+        "tab.inactiveForeground": "#F5F5F5",
 
         // Scroll Bar
         "scrollbarSlider.background": "#0000009c",
