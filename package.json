@@ -1,0 +1,32 @@
+{
+  "name": "retrolighttheme",
+  "displayName": "RetroLight",
+  "description": "Light theme for Visual Studio Code in retro style",
+  "version": "0.1.1",
+  "publisher": "vettspace",
+  "author": {
+      "name": "Vitaly Orlov",
+      "email": "vettspace@gmail.com",
+      "url": "https://t.me/vettspace"
+  },
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vettspace/RetroLight"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RetroLight",
+        "uiTheme": "vs",
+        "path": "./themes/RetroLight-color-theme.json"
+      }
+    ]
+  }
+}
