@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.3]
+
+- Add lineHighlightBackground parameter
+
 ## [0.1.2]
 
 - Correction of tab colors

@@ -2,7 +2,7 @@
   "name": "retrolighttheme",
   "displayName": "RetroLight",
   "description": "Light theme for Visual Studio Code in retro style",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "vettspace",
   "author": {
       "name": "Vitaly Orlov",

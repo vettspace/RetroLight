@@ -1,5 +1,5 @@
 {
-    "name": "RetroDark",
+    "name": "RetroLight",
     "type": "light",
     "semanticHighlighting": true,
         "enumMember": {
@@ -1838,7 +1838,7 @@
         "editorCursor.background": "#647D87",
         "editorWhitespace.foreground": "#FF6969",
         "editor.selectionBackground": "#5398d83a",
-        "editor.lineHighlightBackground": "#00000000",
+        "editor.lineHighlightBackground": "#E1CEA0",
         "editor.lineHighlightBorder": "#00000000",
         "editorIndentGuide.background": "#999999",
         "editorIndentGuide.activeBackground": "#777777",
